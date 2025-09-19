@@ -1,9 +1,9 @@
 INHERIT: ./customized_mkdocs/base_mkdocs.yml
 
-site_name: Syncopation
+site_name: Jossie's Blog
 
-site_url: https://qihang-zhang.github.io/Syncopation
+site_url: https://jossiej00.github.io/jossie-blogs/
 
 plugins:
   blog:
-    blog_dir: Syncopation
+    blog_dir: Blogs
