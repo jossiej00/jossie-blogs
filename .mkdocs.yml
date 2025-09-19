@@ -7,3 +7,7 @@ site_url: https://jossiej00.github.io/jossie-blogs/
 plugins:
   blog:
     blog_dir: Blogs
+
+theme:
+  logo: assets/strawberry-svgrepo-com.svg
+  favicon: assets/strawberry-svgrepo-com.svg
